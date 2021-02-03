@@ -1,0 +1,11 @@
+
+config global
+	list open_basedir '/'
+	option https '0'
+	option ipv6 '1'
+	option project_directory '/mnt/sda3/kodexplorer'
+	option enable '1'
+	option memory_limit '1024M'
+	option upload_max_filesize '1024M'
+	option port '88'
+
