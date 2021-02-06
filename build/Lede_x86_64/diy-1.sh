@@ -10,4 +10,4 @@
 #添加自定义插件链接（自己想要什么就github里面搜索然后添加）
 git clone -b master https://github.com/vernesong/OpenClash.git package/diy/luci-app-openclash  #openclash出国软件
 git clone https://github.com/frainzy1477/luci-app-clash.git package/diy/luci-app-clash  #clash出国软件
-git clone https://github.com/silime/luci-app-kodexplorer.git #可道云插件
+git clone https://github.com/silime/luci-app-kodexplorer.git package/diy/luci-app-kodexplorer #可道云插件
